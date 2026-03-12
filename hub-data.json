@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "saved": "2026-03-12T13:32:03.464Z",
+  "saved": "2026-03-12T18:41:18.749Z",
   "data": {
-    "todos": [
-      {
-        "id": "mmnibnhfyxq1",
-        "text": "send out mailings",
-        "date": "2026-03-12",
-        "workstream": "SQR",
-        "priority": "normal",
-        "done": false,
-        "createdAt": "2026-03-12T13:32:00.291Z"
-      }
-    ],
+    "todos": [],
     "notes": null,
     "cards": null,
     "events": [
